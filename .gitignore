@@ -1,0 +1,11 @@
+venv/
+
+**pycache**/
+
+*.pyc
+
+output/*.xlsx
+output/*.csv
+
+logs/*.log
+logs/report.txt
